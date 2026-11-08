@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kaewthip Khammee - Online Resume</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            background-color: #f4f7f6;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            max-width: 700px;
+            margin: 20px auto;
+            background: #ffffff;
+            padding: 40px;
+            border-radius: 12px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+        }
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 5px;
+        }
+        .address {
+            color: #7f8c8d;
+            font-size: 0.95em;
+            margin-bottom: 25px;
+        }
+        h2 {
+            color: #2980b9;
+            border-bottom: 2px solid #ecf0f1;
+            padding-bottom: 8px;
+            margin-top: 25px;
+            font-size: 1.3em;
+        }
+        ul {
+            padding-left: 20px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Kaewthip Khammee</h1>
+        <div class="address">
+            <strong>Address:</strong> 20004 Ramkhamhaeng 2 Soi 7, Dokmai, Prawet, Bangkok
+        </div>
+
+        <h2>ABOUT ME</h2>
+        <p>An easy-going and humorous individual who makes people around feel comfortable and relaxed. A passionate cat lover who adores every cat in the world. Enjoy eating good food and relaxing during free time.</p>
+
+        <h2>EDUCATION</h2>
+        <p><strong>Bachelor of Economics</strong><br>
+        University of the Thai Chamber of Commerce (UTCC)</p>
+
+        <h2>WORK EXPERIENCE</h2>
+        <p><strong>Event & Fan Meeting Organizer / Crew</strong><br>
+        Responsible for organizing, planning, and coordinating various events, including music concerts and celebrity fan meetings.</p>
+
+        <h2>INTERESTS & HOBBIES</h2>
+        <ul>
+            <li>Watching Movies</li>
+            <li>Spending time with cats</li>
+        </ul>
+    </div>
+
+</body>
+</html>
